@@ -15,7 +15,8 @@
                 "ms-python.vscode-pylance",
                 "ms-toolsai.jupyter",
                 "ms-azuretools.vscode-docker",
-                "github.copilot"
+                "github.copilot",
+                "Lov3.sagemath-enhanced"
             ]
         }
     },
